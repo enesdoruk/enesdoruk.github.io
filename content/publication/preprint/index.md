@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "An example preprint / workAn example preprint / working paper.An example preprint / working paper.ing paper"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"

@@ -88,7 +88,7 @@ work:
   - position: Perception and Detection Engineer
     company_name: ADASTEC Corp.
     company_url: 'https://www.adastec.com/'
-    company_logo: ''
+    company_logo: 'assets/media/adastec.jpeg'
     date_start: 2023-01-10
     date_end: 2024-02-15
     summary: |2-
@@ -110,7 +110,7 @@ work:
   - position: Long Term Intern
     company_name: ADASTEC Corp.
     company_url: 'https://www.adastec.com/'
-    company_logo: ''
+    company_logo: 'assets/media/adastec.jpeg'
     date_start: 2021-07-15
     date_end: 2022-01-01
     summary: |

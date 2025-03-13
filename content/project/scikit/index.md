@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Unmanned Underwater Systems Competition
+date: 2020-09-15
+external_link: https://teknofest.org/en/competitions/unmanned-underwater-systems-competition/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  -  Unmanned Underwater System
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Focusing on perception and planning, autonomous systems process underwater sensor data for mapping, object detection, and safe navigation, enabling efficient unmanned operations.
 
 <!--more-->

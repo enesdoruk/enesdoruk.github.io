@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-   - block: collection
+  - block: collection
     id: news
     content:
       title: Recent News

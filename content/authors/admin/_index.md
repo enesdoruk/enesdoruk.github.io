@@ -128,12 +128,6 @@ work:
       - 6D Object Pose Estimation Both RGB Based and Depth Based
       - Synthetic Dataset Generation
 
-languages:
-  - name: Turkish
-    percent: 100
-  - name: English
-    percent: 75
-
 ---
 
 ## About Me

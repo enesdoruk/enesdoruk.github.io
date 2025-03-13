@@ -146,6 +146,8 @@ I am passionate about **leveraging AI for real-world applications**, particularl
 
 Before my graduate studies, I earned my **Bachelor’s degree in Electrical and Electronics Engineering from [Bursa Technical University](https://btu.edu.tr/en)**, where I actively participated in **competitions like [TEKNOFEST](https://www.teknofest.org/en/)** and research projects funded by **[TÜBİTAK](https://tubitak.gov.tr/en)**.  
  
+**Keywords:**  2D/3D Vision, Domain Adaptation
+
 ---
 
 ## 📢 Open to Ph.D. Opportunities  
